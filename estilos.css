@@ -1,8 +1,8 @@
 body{
-    background-color: aquamarine;
+    background-color: rgb(125, 124, 124);
 }
 h1{
-    background-color: red;
+    background-color: turquoise;
     text-align: center;
     text-transform: capitalize;
 }
