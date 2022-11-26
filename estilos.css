@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 body{
-    background-color: rgb(125, 124, 124);
+    background-color: rgb(123, 122, 117);
 }
 h1{
     background-color: turquoise;
@@ -11,5 +11,5 @@ h1{
     text-decoration: antiquewhite;
 }
 img{
-    border: 10px salmon;
+    border: 10px solid salmon;
 }
